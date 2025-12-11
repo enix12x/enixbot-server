@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "localhost",
+    "user": "enixbot",
+    "password": "your-database-password-here",
+    "database": "enixbot",
+    "port": 3306
+  },
+  "apiPort": 3000,
+  "apiSecret": "change-this-to-a-random-secret-string"
+}
+
